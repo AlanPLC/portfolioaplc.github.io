@@ -42,7 +42,7 @@ hr{
 	margin: 0 auto;
 	border: 2px #00FA9A solid;
 	border-radius: 40px;
-	box-shadow: 8px 8px 15px rgba(0, 100, 0, .6);
+	box-shadow: 6px 6px 10px rgba(0, 100, 0, .8);
 	padding: 20px;
 	width: 50%;
 }
